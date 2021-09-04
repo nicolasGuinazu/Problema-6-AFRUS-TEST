@@ -1,6 +1,6 @@
 # Problema-6-AFRUS-TEST
 
-## Aplicación sencilla, utilizando REACT,para buscar pokemons.
+## Aplicación utilizando REACT para buscar pokemons.
 
 * NPM INSTALL
 * NPM START
