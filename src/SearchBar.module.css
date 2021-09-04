@@ -1,0 +1,48 @@
+.input{
+    margin: 0;
+    height: 90%;
+    width: 100%;
+    border: none;
+    color: rgba(0, 0, 0, 0.795);
+    outline: none;
+    font-size: 2rem;
+    background-color: blanchedalmond;
+    border-radius: 5px;
+}
+
+.formSearch{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.card{
+    height: 100%;
+    width: 45%;
+    padding: 0;
+    border: none;
+    background-color: blanchedalmond;
+    margin: 5% auto 2% auto; /* top-right-bottom-left */
+    display: flex;
+    justify-content: center;
+    border-radius: 5px;
+}
+
+.add{
+    cursor: pointer;
+    background-color: blanchedalmond;
+    border:none;
+    color: rgb(255, 13, 13);
+    cursor: pointer;
+    height: 100%;
+    width: 10%;
+    text-align: center;
+    font-weight: bold;
+    font-size: 3rem;
+    transition: all 0.5s ease-in;
+    opacity: 0.5;
+}
+
+.add i {
+    font-size: 2rem;
+}
